@@ -5,7 +5,8 @@
         <title>Curso PHP FUNDAMENTAL</title>
     </head>
 
-    <body>        
-        
+    <body>
+        <p> <?php echo  "Guilherme Goulart";    ?>  </p>
+        <p> <?php echo  5*4; ?> </p>
     </body>
 </html>
