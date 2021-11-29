@@ -7,7 +7,9 @@
     </head>
 
     <body>
+
         <form action="destino.php" method="get">
+
             <label for="nome">Nome Completo</label>
             <input type="text" name="nome" id="nome">
             
@@ -15,6 +17,8 @@
             <input type="text" name="email" id="email">
             
             <input type="submit" value="Enviar Cadastro">
+            
         </form>
+
     </body>
 </html>

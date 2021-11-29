@@ -8,6 +8,12 @@
     <body>
         <?php 
 
+            $_idade = 18;
+
+            $_maioridade = ( $_idade >= 18) ? "Maior de 18" : "Menor de 18";
+
+            echo $_maioridade;
+
         ?>
     </body>
 </html>

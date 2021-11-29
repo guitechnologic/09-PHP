@@ -6,11 +6,13 @@
 </head>
 <body>
     <?php 
-        function retornarDiaria() {
-            return number_format( 1900/30, 2);
+
+        function    retornarDiaria()    {
+            return  number_format   (7040/30    ,   2   )   ;
         }
 
-        echo retornarDiaria();
+        echo    RetornarDiaria();
+
     ?>
 </body>
 </html>
